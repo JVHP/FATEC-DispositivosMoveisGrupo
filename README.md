@@ -2,10 +2,6 @@
  Trabalhos em grupo da aula Programação para Dispositivos Móvies da FATEC PG estarão aqui!!
  <br/>
 Grupo Asas da Liberdade :eagle::<br/>
--Gabriel Ferreira - https://github.com/Gabriel2104 br/>
--João Paulo - https://github.com/JPGarc14 🌎<br/>
--José Vinícius - https://github.com/JVHP 🌎<br/>
-
 <table>
   <tr>
     <td align="center"><a href="https://github.com/Gabriel2104"><img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/38962161?v=4" width="100px;" alt=""/><br /><sub><b>Gabriel Ferreira</b></sub></a><br /><a href="https://rocketseat.com.br/" title="Rocketseat">🌎🚀</a></td>
