@@ -1,5 +1,5 @@
 # FATEC - Programação para Dispositivos Móveis em Grupo
- Repositório criado para os trabalhos em grupo da aula Programação para Dispositivos Móvies da FATEC PG:robot: 
+ Repositório criado para os trabalhos em grupo da aula Programação para Dispositivos Móvies da FATEC PG
  <br/>
 Grupo Asas da Liberdade :eagle::<br/>
  -Gabriel Ferreira - https://github.com/Gabriel2104 :earth_americas:<br/>
