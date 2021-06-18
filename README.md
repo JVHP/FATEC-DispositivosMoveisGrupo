@@ -1,5 +1,5 @@
-# Repositório para Grupo da matéria de Dispositivos Móveis
- Repositório criado para os trabalhos em grupo da aula Programação para Dispositivos Móvies da FATEC PG
+# Repositório do Grupo Asas da Liberdade da matéria de Dispositivos Móveis
+ Trabalhos em grupo da aula Programação para Dispositivos Móvies da FATEC PG estão aqui!!
  <br/>
 Grupo Asas da Liberdade :eagle::<br/>
  -Gabriel Ferreira - https://github.com/Gabriel2104 :earth_americas:<br/>
