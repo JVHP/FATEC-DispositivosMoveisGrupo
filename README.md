@@ -1,5 +1,5 @@
 # Repositório de Grupo para matéria Prog. para Dispositivos Móveis:robot:</h2>
- Trabalhos em grupo da aula Programação para Dispositivos Móvies da FATEC PG estarão aqui!!
+ <p align="center">Trabalhos em grupo da aula Programação para Dispositivos Móvies da FATEC PG estarão aqui!!</p>
  <br/>
 <p align="center">Grupo Asas da Liberdade:eagle: </p>
 <table align="center">
