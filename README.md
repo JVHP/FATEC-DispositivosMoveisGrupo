@@ -1,4 +1,4 @@
-# FATEC - Programação para Dispositivos Móveis em Grupo 🤖
+# FATEC - Programação para Dispositivos Móveis em Grupo🤖
  Repositório criado para os trabalhos em grupo da aula Programação para Dispositivos Móvies da FATEC PG
  <br/>
 Grupo Asas da Liberdade :eagle::<br/>
